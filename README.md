@@ -2,7 +2,7 @@
 
 ## Task 1: Fork a DeFi tool and host the front-end on Skynet
 
-### hosted app: (berryclub)[https://vg4itllb7jgsjgs14loja0gn00ovl612eks5lk8gb40uo1jdgtm20b0.siasky.net/]
+### hosted app: [berryclub](https://vg4itllb7jgsjgs14loja0gn00ovl612eks5lk8gb40uo1jdgtm20b0.siasky.net/)
 
 ## Task 2: Add a working "Save to Homescreen" link:
 
